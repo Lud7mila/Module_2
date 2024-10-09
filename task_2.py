@@ -8,3 +8,5 @@ elif first == second or first == third or second == third:
     print('\nКоличество одинаковых чисел среди введенных: 2')
 else:
     print('\nКоличество одинаковых чисел среди введенных: 0')
+
+
